@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 597b1e8e2a091ff45aff68ac62a64ada, type: 3}
+  m_Name: Q2
+  m_EditorClassIdentifier: 
+  question: 'Executing code on a sequence diagram is represented with: '
+  answers:
+  - {fileID: 11400000, guid: a7c1564e37d12f34c9d608b3febe5548, type: 2}
+  - {fileID: 11400000, guid: f46c1ac41a682364ca155ee1a68b6841, type: 2}
+  - {fileID: 11400000, guid: e57fdb96a9dcf0048a013f9202dcdd9d, type: 2}
+  - {fileID: 11400000, guid: b2075081bde7b7b418a62aa6a0f9f11b, type: 2}
